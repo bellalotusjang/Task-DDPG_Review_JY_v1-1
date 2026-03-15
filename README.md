@@ -5,6 +5,8 @@
 
 논문 **Lillicrap et al. (2015) — *Continuous control with deep reinforcement learning*** 을 기반으로 작성했다.
 
+## 논문 리뷰 바로가기 -> https://jangcarru20100919.tistory.com/83
+
 ---
 
 ## 프로젝트 소개
